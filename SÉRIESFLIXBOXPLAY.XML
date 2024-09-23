@@ -2,17 +2,14 @@
 <items>
 
 
-
-
-
 <item>
-<title>Pinguim 2024[B][COLOR yellow] +16 [/COLOR][/B]</title>
-<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/v/8PdKyDwbDRfGRb$nome=[B]Série - Pinguim Episódio 01 (2024)[/B]</link>
-<link>plugin://plugin.video.youtube/play/?video_id=DPwSRV1XFyM$nome=[B]Trailer Pinguim (2024)[/B]</link>
-<thumbnail>https://www.themoviedb.org/t/p/w1280/51OH9I8EnWJvFmHP2Kg2pU7ZIGK.jpg</thumbnail>
-<genre>Drama, Suspense</genre>
+<title>Em Breve - O Senhor dos Anéis: A Guerra dos Rohirrim (2024)  2024</title>
+<link>$nome=[B]Série - Em Breve - O Senhor dos Anéis: A Guerra dos Rohirrim (2024)[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=szTQq_nAcEs$nome=[B]Trailer  O Senhor dos Anéis: A Guerra dos Rohirrim (2024)  (2024)[/B]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w1280/tkZOps9KHtX8WpEdIx9OiQYVQV4.jpg</thumbnail>
+<genre>Animação, Fantasia, Ação</genre>
 <fanart></fanart>
-<info>Após a queda dos Carmines, Oswald “Oz” Cobb está pronto para assumir o controle de Gotham e dar à sua mãe a vida que ele sempre lhe prometeu. Mas primeiro, ele terá de enfrentar inimigos novos e antigos, além do seu tão odiado apelido – O Pinguim – que não tornará o caminho deste gangster tão fácil.</info>
+<info>183 anos antes dos eventos narrados na trilogia original, um ataque repentino de Wulf, um senhor inteligente e implacável de Dunlending em busca de vingança pela morte de seu pai, força Helm Mão de Martelo e seu povo a fazer uma ousada última resistência na antiga fortaleza do Hornburgo. Encontrando-se numa situação cada vez mais desesperadora, Héra, filha de Helm, deve reunir a vontade para liderar a resistência contra um inimigo mortal que pretende a sua destruição total.</info>
 </item>
 
 <item>
@@ -174,6 +171,16 @@
 <genre>Drama, Ficção científica, Aventura, Ação</genre>
 <fanart></fanart>
 <info>Parasitas não identificados dominam os corpos humanos de forma violenta e ganham cada vez mais poder. Agora, a humanidade precisa combater essa crescente ameaça.</info>
+</item>
+
+<item>
+<title>Pinguim 2024[B][COLOR yellow] +16 [/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/v/8PdKyDwbDRfGRb$nome=[B]Série - Pinguim Episódio 01 (2024)[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=DPwSRV1XFyM$nome=[B]Trailer Pinguim (2024)[/B]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w1280/51OH9I8EnWJvFmHP2Kg2pU7ZIGK.jpg</thumbnail>
+<genre>Drama, Suspense</genre>
+<fanart></fanart>
+<info>Após a queda dos Carmines, Oswald “Oz” Cobb está pronto para assumir o controle de Gotham e dar à sua mãe a vida que ele sempre lhe prometeu. Mas primeiro, ele terá de enfrentar inimigos novos e antigos, além do seu tão odiado apelido – O Pinguim – que não tornará o caminho deste gangster tão fácil.</info>
 </item>
 
 <item>
