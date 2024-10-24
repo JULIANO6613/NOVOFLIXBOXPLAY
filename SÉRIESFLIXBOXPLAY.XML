@@ -33,16 +33,6 @@
 </item>
 
 <item>
-<title>Uzumaki -Legendado (2024)[B][COLOR blue] +16 [/COLOR][/B]</title>
-<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/v/7PveBvyrGLcAamq$nome=[B]Série - Uzumaki Legendado Episódio 01 (2024)</link>
-<link>plugin://plugin.video.youtube/play/?video_id=x37lK5X4ClU$nome=[B]Trailer Uzumaki (2024)</link>
-<thumbnail>https://www.themoviedb.org/t/p/w1280/naBGhZqOdhLzPuXWbx1JdjWZvQy.jpg</thumbnail>
-<genre>Animação, Mistério</genre>
-<fanart></fanart>
-<info>Na tentativa de escapar da maldição das espirais, Kirie, uma estudante do ensino médio, decide deixar sua cidade natal. Será que ela conseguirá?</info>
-</item>
-
-<item>
 <title>A Lenda de Vox Machina 3ª Temporada - (2024)[B][COLOR blue] +14 [/COLOR][/B]</title>
 <link>magnet:?xt=urn:btih:e45fa427b12a4059a2ea9a132f608f770f194f0c$nome=[B]Série - A Lenda de Vox Machina 3ª Temporada (2024)</link>
 <link>plugin://plugin.video.youtube/play/?video_id=uLm5IyyXlzo&t=8s$nome=[B]Trailer  A Lenda de Vox Machina 3ª Temporada (2024)</link>
@@ -120,12 +110,15 @@
 
 <item>
 <title>Agatha Desde Sempre - 1ª Temporada 2024[B][COLOR blue] +16 [/COLOR][/B]</title>
-<link>magnet:?xt=urn:btih:ef9d7d1aa3e6cd3c0719e3f555eb5047374e04a3$nome=[B]Série - Agatha Desde Sempre - 1ª Temporada 01º E 02º Episódio (2024)[/B]</link>
-<link>magnet:?xt=urn:btih:7d42a1ea50006d5ee26f268312ade6f4f387ed48$nome=[B]Filme - Agatha Desde Sempre - 1ª Temporada 03º Episódio (2024)[/B]</link>
+<link>magnet:?xt=urn:btih:ef9d7d1aa3e6cd3c0719e3f555eb5047374e04a3$nome=[B]Série - Agatha Desde Sempre - 1ª Temporada 01º E 02º Episódio (2024)</link>
+<link>magnet:?xt=urn:btih:7d42a1ea50006d5ee26f268312ade6f4f387ed48$nome=[B]Filme - Agatha Desde Sempre - 1ª Temporada 03º Episódio (2024)</link>
+<link>magnet:?xt=urn:btih:57bf905f2771b19a636eb284d991f172e243d29a$nome=[B]Série - Agatha Desde Sempre - 1ª Temporada 04º Episódio  (2024)</link>
+<link>magnet:?xt=urn:btih:8c53ff5df0cbb08ebc25ea3955835289a935993e$nome=[B]Série - Agatha Desde Sempre - 1ª Temporada 05º Episódio (2024)</link>
+<link>magnet:?xt=urn:btih:5080f179fd903f8bc94957be5602dc8514a93eae$nome=[B]Série - Agatha Desde Sempre - 1ª Temporada 06º Episódio  (2024)</link>
 <link>plugin://plugin.video.youtube/play/?video_id=F1eIAdn9Cbg$nome=[B]Trailer Agatha Desde Sempre - 1ª Temporada (2024)[/B]</link>
 <thumbnail>https://www.themoviedb.org/t/p/w1280/wM5FcOd6dXslBcouPbiTMWexCln.jpg</thumbnail>
 <genre>Drama, Terror</genre>
-<fanart></fanart>
+<fanart>https://www.themoviedb.org/t/p/w1280/wM5FcOd6dXslBcouPbiTMWexCln.jpg</fanart>
 <info>A infame Agatha Harkness encontra-se sem poderes depois de um jovem gótico suspeito ajudá-la a se libertar de um feitiço distorcido. Ela se mostra interessada quando ele pede que seja levado ao lendário Caminho das Bruxas, um caminho mágico de provações que recompensará a bruxa sobrevivente com o que lhe falta. Juntos, Agatha e esse misterioso Jovem reúnem um coven desesperado e partem para o Caminho…</info>
 </item>
 
@@ -432,6 +425,16 @@
 <genre>Drama, Crime</genre>
 <fanart></fanart>
 <info>Logo após ser libertado da prisão após 25 anos, o capo da máfia de Nova York Dwight O General Manfredi é exilado sem cerimônia por seu chefe para se estabelecer em Tulsa, Oklahoma. Percebendo que sua família mafiosa pode não ter seus melhores interesses em mente, Dwight lentamente constrói uma equipe de um grupo de personagens improváveis, para ajudá-lo a estabelecer um novo império do crime em um lugar que para ele poderia ser outro planeta.</info>
+</item>
+
+<item>
+<title>Uzumaki -Legendado (2024)[B][COLOR blue] +16 [/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/v/7PveBvyrGLcAamq$nome=[B]Série - Uzumaki Legendado Episódio 01 (2024)</link>
+<link>plugin://plugin.video.youtube/play/?video_id=x37lK5X4ClU$nome=[B]Trailer Uzumaki (2024)</link>
+<thumbnail>https://www.themoviedb.org/t/p/w1280/naBGhZqOdhLzPuXWbx1JdjWZvQy.jpg</thumbnail>
+<genre>Animação, Mistério</genre>
+<fanart></fanart>
+<info>Na tentativa de escapar da maldição das espirais, Kirie, uma estudante do ensino médio, decide deixar sua cidade natal. Será que ela conseguirá?</info>
 </item>
 
 <item>
