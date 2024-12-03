@@ -3,7 +3,7 @@
 
 
 <item>
-<title>[B][COLOR blue]==== Aviso - Sejam Bem Vindos ao AddonFenix - Séries Atualizadas e Adicionadas Novas Séries, Excelente Semana à todos.[B][COLOR yellow] ===== [/COLOR][/B]</title>
+<title>[B][COLOR green]==== Aviso - Sejam Bem Vindos ao AddonFenix - Séries Atualizadas e Adicionadas Novas Séries, Excelente Semana à todos.[B][COLOR green] ===== [/COLOR][/B]</title>
 <link></link>
 <link></link>
 <thumbnail>https://archive.org/download/fanart_202411/Fanart.jpg</thumbnail>
@@ -13,13 +13,13 @@
 </item>
 
 <item>
-<title>Senna - 1ª Temporada - (2024)[COLOR red] +16 [/COLOR]</title>
-<link>magnet:?xt=urn:btih:1391da1980daab810270c3e042c6cf964d0ce602$nome=Série - Senna - 1ª Temporada (2024)</link>
-<link>plugin://plugin.video.youtube/play/?video_id=AGT5bUsOPLk&ab_channel$nome=Trailer Senna - 1ª Temporada (2024)</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wqNSJDA1JTAINDwpTJOykh9TBhJ.jpg</thumbnail>
-<genre>Drama, Biografia</genre>
+<title>Skeleton Crew - 1ª Temporada Episódios 01º/02º - (2024)[COLOR red] +16 [/COLOR]</title>
+<link>magnet:?xt=urn:btih:ec6c01f6d93ebe01c9db01b8b4d62805b48855fe$nome=Série - Skeleton Crew - 1ª Temporada Episódios 01º/02º (2024)</link>
+<link>plugin://plugin.video.youtube/play/?video_id=sgM0H47pkzc$nome=Trailer Skeleton Crew - 1ª Temporada  (2024)</link>
+<thumbnail>https://www.themoviedb.org/t/p/w1280/srQbJhLRKoAwRrNN5ga7webPHbC.jpg</thumbnail>
+<genre>Ação, Aventura</genre>
 <fanart></fanart>
-<info>A trajetória de superação, desencontros, alegrias e tristezas do tricampeão de Fórmula 1, Ayrton Senna, desbravando sua personalidade e suas relações pessoais. O ponto de partida será o começo da carreira automobilística do Ayrton, quando ele se muda para a Inglaterra para competir na Fórmula Ford, até o trágico acidente em Ímola, na Itália, durante o Grande Prêmio de San Marino.</info>
+<info>Quatro crianças comuns buscam seu planeta natal após se perderem na galáxia de Star Wars.</info>
 </item>
 
 <item>
@@ -734,6 +734,16 @@
 <genre>Sci-Fi & Fantasy, Animação, Comédia, 25m</genre>
 <fanart></fanart>
 <info>As vidas da tripulação de apoio servindo em um dos navios menos importantes da Frota Estelar, os EUA Cerritos, em 2380. Os alferes Mariner, Boimler, Rutherford e Tendi têm de cumprir seus deveres e sua vida social, muitas vezes enquanto o navio é abalado por uma infinidade de anomalias da ficção científica.</info>
+</item>
+
+<item>
+<title>Senna - 1ª Temporada - (2024)[COLOR red] +16 [/COLOR]</title>
+<link>magnet:?xt=urn:btih:1391da1980daab810270c3e042c6cf964d0ce602$nome=Série - Senna - 1ª Temporada (2024)</link>
+<link>plugin://plugin.video.youtube/play/?video_id=AGT5bUsOPLk&ab_channel$nome=Trailer Senna - 1ª Temporada (2024)</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wqNSJDA1JTAINDwpTJOykh9TBhJ.jpg</thumbnail>
+<genre>Drama, Biografia</genre>
+<fanart></fanart>
+<info>A trajetória de superação, desencontros, alegrias e tristezas do tricampeão de Fórmula 1, Ayrton Senna, desbravando sua personalidade e suas relações pessoais. O ponto de partida será o começo da carreira automobilística do Ayrton, quando ele se muda para a Inglaterra para competir na Fórmula Ford, até o trágico acidente em Ímola, na Itália, durante o Grande Prêmio de San Marino.</info>
 </item>
 
 <item>
